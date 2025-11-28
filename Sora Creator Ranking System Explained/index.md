@@ -1,4 +1,4 @@
-# Article 3 of 5: Sora Creator Ranking System Explained
+# Sora Creator Ranking System Explained
 
 # Sora Creator Ranking System Explained: The Ultimate Guide to Climbing the Leaderboard
 
