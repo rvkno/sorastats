@@ -1,4 +1,4 @@
-# Article 2 of 5: Best Sora Analytics Tools for Creators
+# Best Sora Analytics Tools for Creators
 
 ## Finding the Right Analytics Tool for Sora Creators
 
