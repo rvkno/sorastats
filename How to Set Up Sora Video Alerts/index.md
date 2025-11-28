@@ -1,4 +1,4 @@
-# Article 4 of 5: How to Set Up Sora Video Alerts
+# How to Set Up Sora Video Alerts
 
 ## Why Sora Video Alerts Give You a Competitive Edge
 
