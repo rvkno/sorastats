@@ -1,4 +1,4 @@
-# Article 1 of 5: How to Track Sora Video Performance
+# How to Track Sora Video Performance
 
 ## Why Tracking Sora Video Performance Matters
 
