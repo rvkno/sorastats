@@ -10,3 +10,5 @@ Sora Creator Ranking System Explained: [Sora Creator Ranking System Explained](h
 SoraStats Alert Setup - Automate Opportunity Detection: [SoraStats Alert Setup - Automate Opportunity Detection](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Alert%20Setup%20-%20Automate%20Opportunity%20Detection/index.md)
 
 SoraStats Analytics_ How to Make Viral Sora Videos: [SoraStats Analytics_ How to Make Viral Sora Videos](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Analytics_%20How%20to%20Make%20Viral%20Sora%20Videos/index.md)
+
+SoraStats Platform Comparison_ Sora vs Luma vs Runway: [SoraStats Platform Comparison_ Sora vs Luma vs Runway](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Platform%20Comparison_%20Sora%20vs%20Luma%20vs%20Runway/index.md)
