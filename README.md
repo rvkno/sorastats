@@ -12,3 +12,5 @@ SoraStats Alert Setup - Automate Opportunity Detection: [SoraStats Alert Setup -
 SoraStats Analytics_ How to Make Viral Sora Videos: [SoraStats Analytics_ How to Make Viral Sora Videos](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Analytics_%20How%20to%20Make%20Viral%20Sora%20Videos/index.md)
 
 SoraStats Platform Comparison_ Sora vs Luma vs Runway: [SoraStats Platform Comparison_ Sora vs Luma vs Runway](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Platform%20Comparison_%20Sora%20vs%20Luma%20vs%20Runway/index.md)
+
+SoraStats Animal Video Analytics_ Create Viral Pet Content: [SoraStats Animal Video Analytics_ Create Viral Pet Content](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Animal%20Video%20Analytics_%20Create%20Viral%20Pet%20Content/index.md)
