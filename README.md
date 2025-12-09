@@ -16,3 +16,5 @@ SoraStats Platform Comparison_ Sora vs Luma vs Runway: [SoraStats Platform Compa
 SoraStats Animal Video Analytics_ Create Viral Pet Content: [SoraStats Animal Video Analytics_ Create Viral Pet Content](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Animal%20Video%20Analytics_%20Create%20Viral%20Pet%20Content/index.md)
 
 SoraStats Christmas Video Guide_ Holiday Content Strategy: [SoraStats Christmas Video Guide_ Holiday Content Strategy](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Christmas%20Video%20Guide_%20Holiday%20Content%20Strategy/index.md)
+
+How to Make Viral TikTok Videos with AI: [How to Make Viral TikTok Videos with AI](https://github.com/rvkno/sorastats/blob/main/How%20to%20Make%20Viral%20TikTok%20Videos%20with%20AI/index.md)
