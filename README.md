@@ -1,5 +1,6 @@
 # sorastats
 Track Every Sora Creator
+World's first and largest Sora analytics platform — where the next MrBeast is being built, connecting brands and creators for real revenue.
 
 Best Sora Analytics Tools for Creators: [Best Sora Analytics Tools for Creators](https://github.com/rvkno/sorastats/blob/main/Best%20Sora%20Analytics%20Tools%20for%20Creators/index.md)
 
@@ -18,3 +19,5 @@ SoraStats Animal Video Analytics_ Create Viral Pet Content: [SoraStats Animal Vi
 SoraStats Christmas Video Guide_ Holiday Content Strategy: [SoraStats Christmas Video Guide_ Holiday Content Strategy](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Christmas%20Video%20Guide_%20Holiday%20Content%20Strategy/index.md)
 
 How to Make Viral TikTok Videos with AI: [How to Make Viral TikTok Videos with AI](https://github.com/rvkno/sorastats/blob/main/How%20to%20Make%20Viral%20TikTok%20Videos%20with%20AI/index.md)
+
+AI Video Performance Analytics - What the Data Says About Creator Success: [AI Video Performance Analytics - What the Data Says About Creator Success](https://github.com/rvkno/sorastats/blob/main/AI%20Video%20Performance%20Analytics%20-%20What%20the%20Data%20Says%20About%20Creator%20Success/index.md)
