@@ -6,11 +6,7 @@ SoraStats analysis of 8,400+ YouTube channels reveals a striking trend: channels
 
 This shift opens unprecedented opportunities for anyone willing to master AI video tools. Here's what the data shows about faceless channel success.
 
-
-
-
-
-![Split-screen side-by-side comparison showing traditional YouTube creator setup on left (ring light, professional camera, microphone on tripod, desk setup) versus minimalist AI-powered faceless setup on right (laptop only, minimal desk). Text overlay in bright cyan reads "Traditional vs. Faceless: 60% Faster Growth." Professional contrast photography highlighting simplicity advantage of AI-powered approach.](assets/iX6oYJbAhQmmChs3tVYeYNeB0NzI_fDI8-D3VithyTM=.webp)
+(assets/iX6oYJbAhQmmChs3tVYeYNeB0NzI_fDI8-D3VithyTM=.webp)
 
 ## Why Faceless Channels Are Thriving (By The Numbers)
 
