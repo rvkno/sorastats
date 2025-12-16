@@ -21,3 +21,6 @@ SoraStats Christmas Video Guide_ Holiday Content Strategy: [SoraStats Christmas 
 How to Make Viral TikTok Videos with AI: [How to Make Viral TikTok Videos with AI](https://github.com/rvkno/sorastats/blob/main/How%20to%20Make%20Viral%20TikTok%20Videos%20with%20AI/index.md)
 
 AI Video Performance Analytics - What the Data Says About Creator Success: [AI Video Performance Analytics - What the Data Says About Creator Success](https://github.com/rvkno/sorastats/blob/main/AI%20Video%20Performance%20Analytics%20-%20What%20the%20Data%20Says%20About%20Creator%20Success/index.md)
+
+Faceless YouTube Channels: The AI Video Revolution Turning Creators Into Studios: [Faceless YouTube Channels: The AI Video Revolution Turning Creators Into Studios](https://github.com/rvkno/sorastats/blob/main/Faceless%20YouTube%20Channels_%20The%20AI%20Video%20Revolution%20Turning%20Creators%20Into%20Studios/index.md)
+
