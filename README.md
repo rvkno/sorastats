@@ -27,3 +27,5 @@ Faceless YouTube Channels: The AI Video Revolution Turning Creators Into Studios
 
 Instagram Reels + AI_ The Save-First Content Strategy That Builds Audiences Fast: [Instagram Reels + AI_ The Save-First Content Strategy That Builds Audiences Fast](https://github.com/rvkno/sorastats/blob/main/Instagram%20Reels%20%2B%20AI_%20The%20Save-First%20Content%20Strategy%20That%20Builds%20Audiences%20Fast/index.md)
 
+TikTok Viral Formula_ How AI Creators Are Gaming The Algorithm: [TikTok Viral Formula_ How AI Creators Are Gaming The Algorithm](https://github.com/rvkno/sorastats/blob/main/TikTok%20Viral%20Formula_%20How%20AI%20Creators%20Are%20Gaming%20The%20Algorithm/index.md)
+
