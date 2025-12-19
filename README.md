@@ -31,3 +31,4 @@ TikTok Viral Formula_ How AI Creators Are Gaming The Algorithm: [TikTok Viral Fo
 
 AI Music Videos_ How Independent Artists Are Competing With Major Label Production Quality: [AI Music Videos_ How Independent Artists Are Competing With Major Label Production Quality](https://github.com/rvkno/sorastats/blob/main/AI%20Music%20Videos_%20How%20Independent%20Artists%20Are%20Competing%20With%20Major%20Label%20Production%20Quality/index.md)
 
+Video Analytics_ Why Data-Driven Creators Outpace Peers By 10x: [Video Analytics_ Why Data-Driven Creators Outpace Peers By 10x](https://github.com/rvkno/sorastats/blob/main/Video%20Analytics_%20Why%20Data-Driven%20Creators%20Outpace%20Peers%20By%2010x/index.md)
