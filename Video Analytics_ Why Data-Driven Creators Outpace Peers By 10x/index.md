@@ -52,7 +52,7 @@ Why it matters: Different audiences need different content. Retention cliffs rev
 
 
 
-![Five metric cards displaying creator KPIs: Completion Rate (70% benchmark, green card with upward arrow), CTR to Profile (2-4% benchmark, cyan card), Share Rate (1-3% benchmark, orange card), Save Rate/Playlist Adds (4-8% benchmark, blue card), Watch Time Velocity (growth acceleration indicator, purple card with trend arrow). Each card shows metric name, target benchmark, status indicator, and mini visualization. Professional dashboard layout with SoraStats branding and clean modern typography.](assets/9SfQ_NrLzifQjXR7QzPxe4LFUAqvDXwjaf9CLLIW9GY=.webp)
+![Five metric cards displaying creator KPIs: Completion Rate (70% benchmark, green card with upward arrow), CTR to Profile (2-4% benchmark, cyan card), Share Rate (1-3% benchmark, orange card), Save Rate/Playlist Adds (4-8% benchmark, blue card), Watch Time Velocity (growth acceleration indicator, purple card with trend arrow). Each card shows metric name, target benchmark, status indicator, and mini visualization. Professional dashboard layout with SoraStats branding and clean modern typography.](assets/VnfTAY-jrgURPKUJWNxbynj1J8-3eKrTDCqHPNgnDsE=)
 
 ### The SoraStats Advantage: Niche Benchmarking
 
