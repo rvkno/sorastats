@@ -34,3 +34,5 @@ AI Music Videos_ How Independent Artists Are Competing With Major Label Producti
 Video Analytics_ Why Data-Driven Creators Outpace Peers By 10x: [Video Analytics_ Why Data-Driven Creators Outpace Peers By 10x](https://github.com/rvkno/sorastats/blob/main/Video%20Analytics_%20Why%20Data-Driven%20Creators%20Outpace%20Peers%20By%2010x/index.md)
 
 AI Video Generator for Instagram Reels Complete Creator's Guide: [AI Video Generator for Instagram Reels Complete Creator's Guide](https://github.com/rvkno/sorastats/blob/main/AI%20Video%20Generator%20for%20Instagram%20Reels%20Complete%20Creator's%20Guide/AI%20Video%20Generator%20for%20Instagram%20Reels%20Complete%20Creator's%20Guide.md)
+
+AI Video Maker for YouTube Shorts Growing Your Channel with Short-Form Content: [AI Video Maker for YouTube Shorts Growing Your Channel with Short-Form Content](https://github.com/rvkno/sorastats/blob/main/AI%20Video%20Maker%20for%20YouTube%20Shorts%20Growing%20Your%20Channel%20with%20Short-Form%20Content/AI%20Video%20Maker%20for%20YouTube%20Shorts%20Growing%20Your%20Channel%20with%20Short-Form%20Content.md)
