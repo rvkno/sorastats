@@ -38,3 +38,6 @@ AI Video Generator for Instagram Reels Complete Creator's Guide: [AI Video Gener
 AI Video Maker for YouTube Shorts Growing Your Channel with Short-Form Content: [AI Video Maker for YouTube Shorts Growing Your Channel with Short-Form Content](https://github.com/rvkno/sorastats/blob/main/AI%20Video%20Maker%20for%20YouTube%20Shorts%20Growing%20Your%20Channel%20with%20Short-Form%20Content/AI%20Video%20Maker%20for%20YouTube%20Shorts%20Growing%20Your%20Channel%20with%20Short-Form%20Content.md)
 
 Best AI Video Tools for Content Creators A Comprehensive Comparison: [Best AI Video Tools for Content Creators A Comprehensive Comparison](https://github.com/rvkno/sorastats/blob/main/Best%20AI%20Video%20Tools%20for%20Content%20Creators%20A%20Comprehensive%20Comparison/Best%20AI%20Video%20Tools%20for%20Content%20Creators%20A%20Comprehensive%20Comparison.md)
+
+How to Create Christmas Videos with AI Complete Holiday Content Guide: [How to Create Christmas Videos with AI Complete Holiday Content Guide](https://github.com/rvkno/sorastats/blob/main/How%20to%20Create%20Christmas%20Videos%20with%20AI%20Complete%20Holiday%20Content%20Guide/index.md)
+
