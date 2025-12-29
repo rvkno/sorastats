@@ -42,3 +42,5 @@ Best AI Video Tools for Content Creators A Comprehensive Comparison: [Best AI Vi
 How to Create Christmas Videos with AI Complete Holiday Content Guide: [How to Create Christmas Videos with AI Complete Holiday Content Guide](https://github.com/rvkno/sorastats/blob/main/How%20to%20Create%20Christmas%20Videos%20with%20AI%20Complete%20Holiday%20Content%20Guide/index.md)
 
 How to Make Viral TikTok Videos with AI A Complete Guide: [How to Make Viral TikTok Videos with AI A Complete Guide](https://github.com/rvkno/sorastats/blob/main/How%20to%20Make%20Viral%20TikTok%20Videos%20with%20AI%20A%20Complete%20Guide/index.md)
+
+SoraStats Trending Topics Guide - Catch Trends Early: [SoraStats Trending Topics Guide - Catch Trends Early](https://github.com/rvkno/sorastats/blob/main/SoraStats%20Trending%20Topics%20Guide%20-%20Catch%20Trends%20Early/index.md)
